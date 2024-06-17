@@ -27,19 +27,18 @@
  
 ## 🌐 Contact:
 <div> 
-  <a href="https://www.instagram.com/sakamoto1g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/enzo.sakamoto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/enzo-sakamoto-8676b2209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
-<div>
-  <a href="https://github.com/enzosakamoto">
+<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&count_private=true&theme=transparent"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosakamoto&layout=compact&langs_count=7&theme=transparent"/>
-
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</p>
