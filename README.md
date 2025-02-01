@@ -5,7 +5,7 @@
   <em>My name is Enzo Sakamoto, I'm 22 years old and I'm in my fourth year of Computer Engineering (9th semester) at Instituto Mauá de Tecnologia.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 Estou focando em aprender | <em>I'm focused on learning</em>: <b>Data Science</b>, <b>Machine Learning</b> & <b>IA</b>.<br/>
+  🎯 Estou focando em aprender | <em>I'm focused on learning</em>: <b>Machine Learning</b> & <b>IA</b>.<br/>
 </p>
 <p align="left" text-align="justify">
   🛹 Hobbies: Andar de skate, jogar, ver filmes de terror, treinar e programar | <em>Skateboarding, play video games, watch horror movies, work out and programming</em>.
