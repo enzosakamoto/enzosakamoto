@@ -1,11 +1,11 @@
 ## Welcome to my GitHub 👋
 <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 <p align="left" text-align="justify">
-  Me chamo Enzo Sakamoto, tenho 22 anos e estou cursando o quarto ano de Engenharia de Computação (9º semestre) no Instituto Mauá de Tecnologia.<br/>
+  Me chamo Enzo Sakamoto, tenho 22 anos e estou cursando o quinto ano de Engenharia de Computação (9º semestre) no Instituto Mauá de Tecnologia.<br/>
   <em>My name is Enzo Sakamoto, I'm 22 years old and I'm in my fifth year of Computer Engineering (9th semester) at Instituto Mauá de Tecnologia.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 Estou focando em aprender | <em>I'm focused on learning</em>: <b>Software Architecture</b>, <b>C#</b> & <b>AI</b>.<br/>
+  🎯 Estou focando em aprender | <em>I'm focused on learning</em>: <b>Software Architecture</b>, <b>C#</b>, <b>.NET</b> & <b>AI</b>.<br/>
 </p>
 <p align="left" text-align="justify">
   🛹 Hobbies: Andar de skate, jogar, ver filmes de terror, treinar e programar | <em>Skateboarding, play video games, watch horror movies, work out and programming</em>.
