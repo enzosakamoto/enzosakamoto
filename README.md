@@ -5,10 +5,14 @@
   <em>My name is Enzo Sakamoto, I'm 22 years old and I'm in my fifth year of Computer Engineering (9th semester) at Instituto Mauá de Tecnologia.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 Estou focando em aprender | <em>I'm focused on learning</em>: <b>Software Architecture</b>, <b>C#</b>, <b>.NET</b> & <b>AI</b>.<br/>
+  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, C# & .NET.<br/>
 </p>
 <p align="left" text-align="justify">
-  🛹 Hobbies: Andar de skate, jogar, ver filmes de terror, treinar e programar | <em>Skateboarding, play video games, watch horror movies, work out and programming</em>.
+  📝 <b>Certificações | <em>Certifications</em>:</b> Google Cloud Plataform - Associate Cloud Engineer (GCP-ACE), AWS AI Practitioner (AIF-C01) & Microsoft Azure Fundamentals (AZ-900).
+</p>
+
+<p align="left" text-align="justify">
+  🛹 <b>Hobbies:</b> Andar de skate, jogar, ver filmes de terror, treinar e programar | <em>Skateboarding, play video games, watch horror movies, work out and programming</em>.
 </p>
 
 ## 💻 Technologies
