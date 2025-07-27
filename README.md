@@ -1,8 +1,8 @@
 ## Welcome to my GitHub 👋
 <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 <p align="left" text-align="justify">
-  Me chamo Enzo Sakamoto, tenho 22 anos e estou cursando o quinto ano de Engenharia de Computação (9º semestre) no Instituto Mauá de Tecnologia.<br/>
-  <em>My name is Enzo Sakamoto, I'm 22 years old and I'm in my fifth year of Computer Engineering (9th semester) at Instituto Mauá de Tecnologia.</em>
+  Me chamo Enzo Sakamoto, tenho 23 anos e estou cursando o quinto ano de Engenharia de Computação (10º semestre) no Instituto Mauá de Tecnologia.<br/>
+  <em>My name is Enzo Sakamoto, I'm 23 years old and I'm in my fifth year of Computer Engineering (10th semester) at Instituto Mauá de Tecnologia.</em>
 </p>
 <p align="left" text-align="justify">
   🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, C# & .NET.<br/>
