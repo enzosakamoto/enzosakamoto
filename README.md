@@ -5,7 +5,7 @@
   <em>My name is Enzo Sakamoto, I'm 23 years old and I'm in my fifth year of Computer Engineering (10th semester) at Instituto Mauá de Tecnologia.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, C# & .NET.<br/>
+  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, Azure, C# & .NET.<br/>
 </p>
 <p align="left" text-align="justify">
   📝 <b>Certificações | <em>Certifications</em>:</b> Google Cloud Plataform - Associate Cloud Engineer (GCP-ACE), AWS AI Practitioner (AIF-C01) & Microsoft Azure Fundamentals (AZ-900).
