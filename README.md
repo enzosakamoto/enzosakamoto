@@ -5,6 +5,9 @@
   <em>My name is Enzo Sakamoto, I am 23 years old, and I hold a degree in Computer Engineering from the Mauá Institute of Technology.</em>
 </p>
 <p align="left" text-align="justify">
+  💼 <b>Atualmente estou trabalhando como | <em>I am currently working as a</em>:</b> Arquiteto de Software na XP Inc. | Software Architecture at XP Inc.<br/>
+</p>
+<p align="left" text-align="justify">
   🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, Azure, C# & .NET.<br/>
 </p>
 <p align="left" text-align="justify">
