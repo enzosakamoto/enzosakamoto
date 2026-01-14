@@ -27,9 +27,6 @@
 
 ##
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&count_private=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosakamoto&layout=compact&langs_count=7&theme=transparent"/>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake.svg" />
