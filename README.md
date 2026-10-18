@@ -11,7 +11,7 @@
   🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, Azure, C# & .NET.<br/>
 </p>
 <p align="left" text-align="justify">
-  📝 <b>Certificações | <em>Certifications</em>:</b> Google Cloud Plataform - Associate Cloud Engineer (GCP-ACE), AWS AI Practitioner (AIF-C01), Microsoft Azure Fundamentals (AZ-900) & Github Copilot (GH-300).
+  📝 <b>Certificações | <em>Certifications</em>:</b> Google Cloud Plataform - Associate Cloud Engineer (GCP-ACE), AWS AI Practitioner (AIF-C01), Microsoft Azure Fundamentals (AZ-900), Github Copilot (GH-300) & AWS Cloud Practitioner(CLF-C02).
 </p>
 
 <p align="left" text-align="justify">
